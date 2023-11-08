@@ -1,2 +1,2 @@
 # job-seeker
-Job seeker project for cuvette backend capstone
+Job seeker app with (COMPLETE MERN STACK PROJECT)
